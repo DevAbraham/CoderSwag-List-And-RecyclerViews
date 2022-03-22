@@ -6,10 +6,10 @@ import com.ruedapps.coderswag.Model.Product
 object DataService {
 
     val categories = listOf(
-        Category("SHIRTS", "shirtImage"),
-        Category("HOODIES", "hoddieImage"),
-        Category("HATS", "hatImage"),
-        Category("DIGITAL", "digitalImage",),
+        Category("SHIRTS", "shirtimage"),
+        Category("HOODIES", "hoodieimage"),
+        Category("HATS", "hatimage"),
+        Category("DIGITAL", "digitalgoodsimage",),
     )
 
     val hats = listOf(
